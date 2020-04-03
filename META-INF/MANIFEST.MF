@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: MiXplorer
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: module.prop
+SHA1-Digest: 5GW4JhiJl/sfjjv7nPrrjQp0oBI=
+
+Name: install.sh
+SHA1-Digest: mSDmpYoPXTXjfVIjQDEUpHyGFbk=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: Qtt038jvkzP05zaSBITuctlchLU=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: uqHC7frYkWqOWClH1/tPMFYOwGY=
+
+Name: common/system.prop
+SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
+
+Name: system/etc/permissions/privapp-permissions-auroraservices.xml
+SHA1-Digest: Ray9URN4WUG0NcYJSxyHkSouhHI=
+
+Name: common/service.sh
+SHA1-Digest: LHx/LXrgbpIqVYx8WSNphSZLE7o=
+
+Name: system/priv-app/AuroraServices/AuroraServices.apk
+SHA1-Digest: bLIxIkp68KGRL/YiwDLHD/xuafU=
+
+Name: README.md
+SHA1-Digest: Ro9DpYioK6/lxxxQIPxtUazOX+s=
+

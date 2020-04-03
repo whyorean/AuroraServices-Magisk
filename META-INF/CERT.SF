@@ -1,0 +1,33 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: IV898cJeCgucT/HCT7ziiFrJDwk=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: module.prop
+SHA1-Digest: YXus0NzmIFEsqyGFNuotN8BVDDU=
+
+Name: install.sh
+SHA1-Digest: lJK8efcSsg2dfgGBQNY/hL2V+mI=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 48vhVGeUh/rYWRApA7wpQtDWjXA=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: WOiBsq6NoGA1DVUkhFl0CBQFkqk=
+
+Name: common/system.prop
+SHA1-Digest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: system/etc/permissions/privapp-permissions-auroraservices.xml
+SHA1-Digest: wu2zkj0kl+ZonyM8On+3C0Va9Bo=
+
+Name: common/service.sh
+SHA1-Digest: au13YD5w4fuOVQid/1XaHRF+ReA=
+
+Name: system/priv-app/AuroraServices/AuroraServices.apk
+SHA1-Digest: 4EXxjSHf0YvkFr2KYQEWXGYY1fw=
+
+Name: README.md
+SHA1-Digest: VV0+6vopeppVcSd8+ewarwR9gMw=
+
